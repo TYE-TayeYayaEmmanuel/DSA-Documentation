@@ -9,5 +9,7 @@ DSA Project
 - MS Excel
   - Data Collection
   - Data Cleaning
+    1. Data Manipulation
+    2. Data Munching
 - SQL
-- Power BI
+- Power BI [Download](https://www.microsoft.com/en-us/power-platform/products/power-bi) 
